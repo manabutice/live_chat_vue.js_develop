@@ -17,3 +17,12 @@ bundle exec rails routes
 rails serverは
 bundle exec rails server
 と実行します。ネットの記事にはrails routesとしか書いてない場合がほとんどなので、bundle execを追加して実行するようにしてください。
+
+git commands
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/manabutice/live_chat_vue.js_develop.git
+git push -u origin main
