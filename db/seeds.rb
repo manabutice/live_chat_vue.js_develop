@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+## ======= 👇 ここから追加する =======
+3.times do |number|
+    Message.create(content: "#{number}番目のメッセージです！", user_id: User.first.id)
+    puts "#{number}番目のメッセージを作成しました"
+  end
+  
+  puts "メッセージの作成が完了しました"
+  ## ====== 👆 ここまで追加する =======
+  

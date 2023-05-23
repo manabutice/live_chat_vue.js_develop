@@ -1,7 +1,12 @@
 Rails.application.routes.draw do
-  ## ======= 👇 ここから変更する=======
-  mount_devise_token_auth_for 'User', at: 'auth', controllers: {
-    registrations: 'auth/registrations'
-  }
-  ## ====== 👆 ここまで変更する=======
+  constraints format: :json do
+    mount_devise_token_auth_for 'User', at: 'auth', controllers: {
+      registrations: 'auth/registrations'
+    }
+
+## ======= 👇 ここから追加する =======
+  resources :messages, only: ['index']
+## ====== 👆 ここまで追加する =======
+
+  end
 end
