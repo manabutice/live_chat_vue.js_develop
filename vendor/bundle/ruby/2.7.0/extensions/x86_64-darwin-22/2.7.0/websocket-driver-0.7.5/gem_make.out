@@ -3,16 +3,16 @@ current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1l155po sitelibdir\=./.gem.20230518-50706-1l155po clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-u8ohwy sitelibdir\=./.gem.20230526-1536-u8ohwy clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1l155po sitelibdir\=./.gem.20230518-50706-1l155po
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-u8ohwy sitelibdir\=./.gem.20230526-1536-u8ohwy
 compiling websocket_mask.c
 linking shared-object websocket_mask.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1l155po sitelibdir\=./.gem.20230518-50706-1l155po install
-/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230518-50706-1l155po
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-u8ohwy sitelibdir\=./.gem.20230526-1536-u8ohwy install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230526-1536-u8ohwy
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1l155po sitelibdir\=./.gem.20230518-50706-1l155po clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-u8ohwy sitelibdir\=./.gem.20230526-1536-u8ohwy clean

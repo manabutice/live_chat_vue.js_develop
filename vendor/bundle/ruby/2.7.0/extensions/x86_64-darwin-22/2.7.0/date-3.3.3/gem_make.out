@@ -6,10 +6,10 @@ checking for altzone in time.h with  -Werror... no
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1acfuzx sitelibdir\=./.gem.20230518-50706-1acfuzx clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-1grp4n2 sitelibdir\=./.gem.20230526-1536-1grp4n2 clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1acfuzx sitelibdir\=./.gem.20230518-50706-1acfuzx
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-1grp4n2 sitelibdir\=./.gem.20230526-1536-1grp4n2
 compiling date_core.c
 date_core.c:959:12: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
     return f_quo(s, INT2FIX(DAY_IN_SECONDS));
@@ -41401,8 +41401,8 @@ date_strptime.c:106:49: note: expanded from macro 'set_hash'
 linking shared-object date_core.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1acfuzx sitelibdir\=./.gem.20230518-50706-1acfuzx install
-/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20230518-50706-1acfuzx
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-1grp4n2 sitelibdir\=./.gem.20230526-1536-1grp4n2 install
+/usr/bin/install -c -m 0755 date_core.bundle ./.gem.20230526-1536-1grp4n2
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/date-3.3.3/ext/date
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1acfuzx sitelibdir\=./.gem.20230518-50706-1acfuzx clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-1grp4n2 sitelibdir\=./.gem.20230526-1536-1grp4n2 clean

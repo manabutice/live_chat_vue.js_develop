@@ -10,10 +10,10 @@ checking for Random.bytes... yes
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/puma-4.3.12/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-3qsf7n sitelibdir\=./.gem.20230518-52465-3qsf7n clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zms3gh sitelibdir\=./.gem.20230526-1536-zms3gh clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/puma-4.3.12/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-3qsf7n sitelibdir\=./.gem.20230518-52465-3qsf7n
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zms3gh sitelibdir\=./.gem.20230526-1536-zms3gh
 compiling http11_parser.c
 ext/puma_http11/http11_parser.c:44:18: warning: unused variable 'puma_parser_en_main' [-Wunused-const-variable]
 static const int puma_parser_en_main = 1;
@@ -242,8 +242,8 @@ compiling puma_http11.c
 linking shared-object puma/puma_http11.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/puma-4.3.12/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-3qsf7n sitelibdir\=./.gem.20230518-52465-3qsf7n install
-/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20230518-52465-3qsf7n/puma
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zms3gh sitelibdir\=./.gem.20230526-1536-zms3gh install
+/usr/bin/install -c -m 0755 puma_http11.bundle ./.gem.20230526-1536-zms3gh/puma
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/puma-4.3.12/ext/puma_http11
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-3qsf7n sitelibdir\=./.gem.20230518-52465-3qsf7n clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zms3gh sitelibdir\=./.gem.20230526-1536-zms3gh clean

@@ -7,10 +7,10 @@ checking for rb_hash_new_capa() in ruby.h... no
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-chr2o8 sitelibdir\=./.gem.20230518-52465-chr2o8 clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zvix36 sitelibdir\=./.gem.20230526-1536-zvix36 clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-chr2o8 sitelibdir\=./.gem.20230518-52465-chr2o8
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zvix36 sitelibdir\=./.gem.20230526-1536-zvix36
 compiling buffer.c
 buffer.c:32:16: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
     s_uminus = rb_intern("-@");
@@ -1505,8 +1505,8 @@ unpacker_ext_registry.c:27:13: note: ')' token is here
 linking shared-object msgpack/msgpack.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-chr2o8 sitelibdir\=./.gem.20230518-52465-chr2o8 install
-/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20230518-52465-chr2o8/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zvix36 sitelibdir\=./.gem.20230526-1536-zvix36 install
+/usr/bin/install -c -m 0755 msgpack.bundle ./.gem.20230526-1536-zvix36/msgpack
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/msgpack-1.7.0/ext/msgpack
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-chr2o8 sitelibdir\=./.gem.20230518-52465-chr2o8 clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-zvix36 sitelibdir\=./.gem.20230526-1536-zvix36 clean

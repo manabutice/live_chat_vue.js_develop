@@ -5,10 +5,11 @@ class User < ActiveRecord::Base
         :recoverable, :rememberable, :validatable
   include DeviseTokenAuth::Concerns::User
 
-  has_many :messages
+has_many :messages
+  ## ======= 👇 ここから追加する =======
+  has_many :likes
+  ## ====== 👆 ここまで追加する =======
 
-## ======= 👇 ここから追加する =======
   validates :name, presence: true
   validates :name, length: { maximum: 30 }
-## ====== 👆 ここまで追加する =======
 end

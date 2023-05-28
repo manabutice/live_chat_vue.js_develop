@@ -1,8 +1,8 @@
 class Message < ApplicationRecord
-    belongs_to :user
-  
+  belongs_to :user
   ## ======= 👇 ここから追加する =======
-    validates :content, presence: true
+  has_many :likes
   ## ====== 👆 ここまで追加する =======
-  end
-  
+
+  validates :content, presence: true
+end

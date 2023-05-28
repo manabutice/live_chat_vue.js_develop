@@ -3,10 +3,10 @@ current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-j56rgp sitelibdir\=./.gem.20230518-52465-j56rgp clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-4kvmp8 sitelibdir\=./.gem.20230526-1536-4kvmp8 clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-j56rgp sitelibdir\=./.gem.20230518-52465-j56rgp
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-4kvmp8 sitelibdir\=./.gem.20230526-1536-4kvmp8
 compiling bootsnap.c
 bootsnap.c:156:84: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
   rb_cBootsnap_CompileCache_UNCOMPILABLE = rb_const_get(rb_mBootsnap_CompileCache, rb_intern("UNCOMPILABLE"));
@@ -366,8 +366,8 @@ bootsnap.c:952:36: note: ')' token is here
 linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-j56rgp sitelibdir\=./.gem.20230518-52465-j56rgp install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230518-52465-j56rgp/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-4kvmp8 sitelibdir\=./.gem.20230526-1536-4kvmp8 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230526-1536-4kvmp8/bootsnap
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-j56rgp sitelibdir\=./.gem.20230518-52465-j56rgp clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-4kvmp8 sitelibdir\=./.gem.20230526-1536-4kvmp8 clean

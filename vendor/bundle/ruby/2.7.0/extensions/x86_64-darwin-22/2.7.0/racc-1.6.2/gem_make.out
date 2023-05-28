@@ -5,16 +5,16 @@ checking for rb_ary_subseq()... yes
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1aoe6jk sitelibdir\=./.gem.20230518-50706-1aoe6jk clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-sjwgu8 sitelibdir\=./.gem.20230526-1536-sjwgu8 clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1aoe6jk sitelibdir\=./.gem.20230518-50706-1aoe6jk
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-sjwgu8 sitelibdir\=./.gem.20230526-1536-sjwgu8
 compiling cparse.c
 linking shared-object racc/cparse.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1aoe6jk sitelibdir\=./.gem.20230518-50706-1aoe6jk install
-/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230518-50706-1aoe6jk/racc
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-sjwgu8 sitelibdir\=./.gem.20230526-1536-sjwgu8 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20230526-1536-sjwgu8/racc
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-1aoe6jk sitelibdir\=./.gem.20230518-50706-1aoe6jk clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-sjwgu8 sitelibdir\=./.gem.20230526-1536-sjwgu8 clean

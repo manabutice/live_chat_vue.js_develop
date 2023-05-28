@@ -9,10 +9,10 @@ creating extconf.h
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-kq92kr sitelibdir\=./.gem.20230518-52465-kq92kr clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-14qpi6v sitelibdir\=./.gem.20230526-1536-14qpi6v clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-kq92kr sitelibdir\=./.gem.20230518-52465-kq92kr
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-14qpi6v sitelibdir\=./.gem.20230526-1536-14qpi6v
 compiling AbstractMemory.c
 AbstractMemory.c:1100:17: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
     id_to_ptr = rb_intern("to_ptr");
@@ -4086,8 +4086,8 @@ compiling ffi.c
 linking shared-object ffi_c.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-kq92kr sitelibdir\=./.gem.20230518-52465-kq92kr install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20230518-52465-kq92kr
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-14qpi6v sitelibdir\=./.gem.20230526-1536-14qpi6v install
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20230526-1536-14qpi6v
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/ffi-1.15.5/ext/ffi_c
-make DESTDIR\= sitearchdir\=./.gem.20230518-52465-kq92kr sitelibdir\=./.gem.20230518-52465-kq92kr clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-14qpi6v sitelibdir\=./.gem.20230526-1536-14qpi6v clean

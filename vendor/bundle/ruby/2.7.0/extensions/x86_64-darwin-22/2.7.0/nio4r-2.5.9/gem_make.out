@@ -13,10 +13,10 @@ checking for sys/resource.h... yes
 creating Makefile
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.9/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-9ickzi sitelibdir\=./.gem.20230518-50706-9ickzi clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-184l48l sitelibdir\=./.gem.20230526-1536-184l48l clean
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.9/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-9ickzi sitelibdir\=./.gem.20230518-50706-9ickzi
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-184l48l sitelibdir\=./.gem.20230526-1536-184l48l
 compiling bytebuffer.c
 compiling monitor.c
 monitor.c:90:25: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -3543,8 +3543,8 @@ selector.c:542:36: note: ')' token is here
 linking shared-object nio4r_ext.bundle
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.9/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-9ickzi sitelibdir\=./.gem.20230518-50706-9ickzi install
-/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20230518-50706-9ickzi
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-184l48l sitelibdir\=./.gem.20230526-1536-184l48l install
+/usr/bin/install -c -m 0755 nio4r_ext.bundle ./.gem.20230526-1536-184l48l
 
 current directory: /Users/murakamimanabu/Document/live-chat-vuejs/vendor/bundle/ruby/2.7.0/gems/nio4r-2.5.9/ext/nio4r
-make DESTDIR\= sitearchdir\=./.gem.20230518-50706-9ickzi sitelibdir\=./.gem.20230518-50706-9ickzi clean
+make DESTDIR\= sitearchdir\=./.gem.20230526-1536-184l48l sitelibdir\=./.gem.20230526-1536-184l48l clean

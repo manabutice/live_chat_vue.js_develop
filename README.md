@@ -1,33 +1,24 @@
-# README
+# live-chat-vuejs
 
-#参考資料
-Ruby on RailsプロジェクトをAPIモードで新規作成
+## Project setup
+```
+yarn install
+```
 
-https://github.com/mtoyopet/live-chat-rails/tree/2-1
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-認証機能を実装しよう
+### Compiles and minifies for production
+```
+yarn build
+```
 
-https://github.com/mtoyopet/live-chat-rails/tree/2-2
+### Lints and fixes files
+```
+yarn lint
+```
 
-$ bundle install --path vendor/bundle
-
-❗️注意❗️
-この方法でRuby on Railsプロジェクトを作成した際は、rails routesやrails serverなどのrailsコマンドを実行する際にbundle execをコマンドの前に追加し実行する必要があります。よって、rails routesは
-bundle exec rails routes 
-rails serverは
-bundle exec rails server
-と実行します。ネットの記事にはrails routesとしか書いてない場合がほとんどなので、bundle execを追加して実行するようにしてください。
-
-git commands
-
-git init
-
-git add README.md
-
-git commit -m "first commit"
-
-git branch -M main
-
-git remote add origin https://github.com/manabutice/live_chat_vue.js_develop.git
-
-git push -u origin main
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
