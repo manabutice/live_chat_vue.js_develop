@@ -22,3 +22,11 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### vue サーバを立ち上げる度に実行するコマンド
+
+npm run serve
+
+### Webブラウザ
+
+http://localhost:8080/
